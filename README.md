@@ -10,6 +10,16 @@ A very beautiful, loving, amazing beat box music player app in Flutter. we can p
 ## State Management
 ✔️ Bloc pattern <br />
 
+## GIF
+
+
+<p align="center">
+  <img width=40%
+  height=40%
+  src="https://user-images.githubusercontent.com/101565812/213884743-b5e4f4dc-71b3-4df8-9f68-15248784b04c.gif">
+</p>
+
+
 ## Screenshots
 
 <p align="center">
@@ -71,10 +81,3 @@ A very beautiful, loving, amazing beat box music player app in Flutter. we can p
   height=40%
   src="https://user-images.githubusercontent.com/101565812/213884441-89ff1e02-9465-4bd9-9fc8-7634481bb0c4.png">
 </p>
-
-<p align="center">
-  <img width=40%
-  height=40%
-  src="">
-</p>
-
