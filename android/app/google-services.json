@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "328519025312",
+    "project_id": "beat-box-music-player-72ba6",
+    "storage_bucket": "beat-box-music-player-72ba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328519025312:android:f0dac4e3f94993615d7fc5",
+        "android_client_info": {
+          "package_name": "com.usamamuzaffar.beat_box_music_player_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328519025312-qst5psro6pvpb3ida8i1q1qs1m2dgf6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.usamamuzaffar.beat_box_music_player_flutter",
+            "certificate_hash": "b33c49b6e30eb2eb7dc3cb9df9fb8294ae571fd1"
+          }
+        },
+        {
+          "client_id": "328519025312-3el11qc9oa3l0ursh8uijo4sdpaesk93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_7wbG9XKbZK46DCHQpJ_hXctB7MsRh6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328519025312-3el11qc9oa3l0ursh8uijo4sdpaesk93.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328519025312-4gv2jc5ta8i6ic958ompmnt5lln758og.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.usamamuzaffar.beatBoxMusicPlayerFlutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
