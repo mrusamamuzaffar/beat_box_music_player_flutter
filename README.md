@@ -1,16 +1,89 @@
-# beat_box_music_player_flutter
+# beat_box_music_player - flutter
 
-A new Flutter project.
+A very beautiful, loving, amazing beat box music player app in Flutter. we can play the music from internet and using internal as well. In this project I just include the internal of the app. First you give the storage permission then this app will find mp3 audio music files in the internal and finally play the music.
 
-## Getting Started
+✔️ Sound NullSafety
 
-This project is a starting point for a Flutter application.
+## Architechture
+✔️ Clean Architechture <br />
 
-A few resources to get you started if this is your first Flutter project:
+## State Management
+✔️ Bloc pattern <br />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img width=40%
+  height=40%
+  src="">
+</p>
+
+<p align="center">
+  <img width=40%
+  height=40%
+  src="">
+</p>
+
+<p align="center">
+  <img width=40%
+  height=40%
+  src="">
+</p>
+
+<p align="center">
+  <img width=40%
+  height=40%
+  src="">
+</p>
+
+<p align="center">
+  <img width=40%
+  height=40%
+  src="">
+</p>
+
+<p align="center">
+  <img width=40%
+  height=40%
+  src="">
+</p>
+
+<p align="center">
+  <img width=40%
+  height=40%
+  src="">
+</p>
+
+<p align="center">
+  <img width=40%
+  height=40%
+  src="">
+</p>
+
+<p align="center">
+  <img width=40%
+  height=40%
+  src="">
+</p>
+
+<p align="center">
+  <img width=40%
+  height=40%
+  src="">
+</p>
+
+<p align="center">
+  <img width=40%
+  height=40%
+  src="">
+</p>
+
+<p align="center">
+  <img width=40%
+  height=40%
+  src="">
+</p>
+
+
+
+
